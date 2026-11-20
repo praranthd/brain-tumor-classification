@@ -1,0 +1,35 @@
+
+# Deep Learning
+torch
+torchvision
+
+# Image Processing
+pillow
+numpy
+
+# Data Analysis
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Experiment Tracking
+mlflow
+
+# Data Version Control
+dvc
+
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Frontend
+streamlit
+
+# Configuration
+pyyaml
+
+# Testing
+pytest
+httpx

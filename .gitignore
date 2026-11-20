@@ -1,0 +1,46 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# ML artifacts
+artifacts/
+*.pth
+*.pt
+*.onnx
+
+# MLflow
+mlruns/
+
+# DVC cache
+.dvc/cache/
+
+# Temporary files
+temp/
+tmp/
+
+# Environment secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+data/
